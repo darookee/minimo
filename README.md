@@ -2,7 +2,7 @@
 
 > Minimal and fast ZSH prompt
 
-![screenshot](https://raw.githubusercontent.com/darookee/minimo/master/screenshot.png)
+![screenshot](screenshot.png)
 
 ## Install
 
